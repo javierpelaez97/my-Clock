@@ -1,0 +1,10 @@
+.digital-clock{
+    background-color: rgba(0, 0, 0, 0.438);
+    color: greenyellow;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 100px;
+    text-align: center;
+    font-size: 24px;
+}
+ 
